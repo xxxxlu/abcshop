@@ -51,7 +51,7 @@
         <div class="feature">
           <div class="feature-icon">🚚</div>
           <h3>Fast Shipping</h3>
-          <p>Free shipping on all orders over $50</p>
+          <p>Free shipping on all orders over Rs.50</p>
         </div>
         <div class="feature">
           <div class="feature-icon">🔄</div>
